@@ -1,0 +1,33 @@
+post         http://localhost:3000/api1/
+
+
+
+
+{
+  
+   "name": "patric",
+	"email": "ASD@gmail.com",
+    "password": "hero@123"
+}
+
+# {  
+#    "firstname": "patric",
+#     "lastname": "murugan",
+#     "email": "a@gmail.com",
+#     "contact": "1234567890",
+#     "gender": "rtyu",
+#     "dateofbirth": "01-03-200",
+#     "Yearofpassing": "ertfgyj",
+#     "MartialStatus": "tyuhjik",
+#     "Currentprofession": "4tfgyuhj",
+#     "Professiondescription": "4er5tyui",
+#     "Address": "trdfgyuhjik",
+#     "Pincode": "edrtfgyhj",
+#     "City": "rdtfghj",
+#     "State": "ertfgyhj",
+#     "Foundestoflifeandschool": "redtfgyhj",
+#     "Suggestion": "wedrfghjk"
+# }
+
+
+
