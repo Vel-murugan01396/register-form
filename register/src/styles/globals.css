@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #__next {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  box-sizing: border-box;
+}
+#home1section{
+  background-image: url(/k1.png);
+  background-size: cover;
+  
+} 
+ #div2home{
+  background-color: rgba(255, 255, 255, 0.719);
+} 
+.imageno1{
+  margin-left: 405px;
+  margin-top: -75px;
+ 
+}
+.imagegif1{
+  margin-left: 405px;
+  position:absolute;
+  margin-top: -14px;
+  width: 15%;
+}
+.imageno2{
+  margin-left: 450px;
+  margin-top: -40px;
+}
+.imagegif2{
+  margin-left: 600px;
+  position:absolute;
+  margin-top: -14px;
+  width: 16%;
+}
+.imageno3{
+  margin-left: 350px;
+  margin-top: -80px;
+}
+.imagegif3{
+  margin-left: 527px;
+  position:absolute;
+  margin-top: -24px;
+  width: 15%;
+}
+
+#reg1{
+  background-image: url(/k1.png);
+  background-size: cover;
+ 
+}
+#reg2{
+  background-image: url(/k1.png);
+  background-size: cover;
+ 
+}
+#reg{
+  background-image: url(/k1.png);
+  background-size: cover;
+ 
+}
+#div2reg2{
+  border-radius: 20px 0px 0px 20px;
+}
+#div2reg1{
+  border-radius: 20px 0px 0px 20px;
+}
+#div2reg{
+  border-radius: 20px 0px 0px 20px;
+}
+#regd1{
+  background-color: rgba(0, 0, 0, 0.4);
+}
+#reg1d1{
+  background-color: rgba(0, 0, 0, 0.4);
+}
+#reg2d1{
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+
+#custom-stepper1 .MuiStepConnector-line {
+  border-color: white;
+  border-width: 1px;
+  height: 2%;
+  width: 40px;
+
+  background-color:white;
+ 
+  
+}
+
+
+
+#custom-stepper .MuiStepConnector-line {
+  border-color: rgb(64, 64, 145);
+  border-width: 1px;
+  width: 2%;
+ 
+  height: 100px;
+  background-color:rgb(64, 64, 145);
+ 
+  
+}
+.background-image{
+  background-image: url(/sin1.jpg);
+  background-size: cover;
+}
+.background-image1{
+  background-image: url(/sin2.jpg);
+  background-size: contain;
+}
+
